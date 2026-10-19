@@ -1,0 +1,67 @@
+﻿sample_id,text,intent,domain
+fa_000001,برای من کارت بانکی‌ام را مسدود کنم کن,card_block,banking
+fa_000002,چطور می‌تونم درخواست خدمت ثبت کنم؟,service_request,public_service
+fa_000003,نیاز دارم که تاکسی بگیرم,book_ride,transportation
+fa_000004,برای من شکایت ثبت کنم کن,complaint,public_service
+fa_000005,تاکسی بگیرم رو لازم دارم,book_ride,transportation
+fa_000006,کارت بانکی‌ام را مسدود کنم رو لازم دارم,card_block,banking
+fa_000007,چطور می‌تونم تاکسی بگیرم؟,book_ride,transportation
+fa_000008,لطفاً شکایت ثبت کنم,complaint,public_service
+fa_000009,لطفاً درخواست خدمت ثبت کنم,service_request,public_service
+fa_000010,چطور می‌تونم وضعیت سفرم را چک کنم؟,ride_status,transportation
+fa_000011,می‌خوام پول انتقال بدم انجام بدم,transfer_money,banking
+fa_000012,نیاز دارم که وارد برنامه بشوم,app_login,digital_platform
+fa_000013,برای من گفتگوی عمومی داشته باشم کن,general_chat,multi_domain
+fa_000014,برای من وارد برنامه بشوم کن,app_login,digital_platform
+fa_000015,می‌خوام قبض پرداخت کنم انجام بدم,pay_bill,banking
+fa_000016,مشکل حسابم را حل کنم رو لازم دارم,account_help,digital_platform
+fa_000017,لطفاً موجودی حسابم را ببینم,check_balance,banking
+fa_000018,وضعیت سفرم را چک کنم رو لازم دارم,ride_status,transportation
+fa_000019,لطفاً مشکل حسابم را حل کنم,account_help,digital_platform
+fa_000020,نیاز دارم که موجودی حسابم را ببینم,check_balance,banking
+fa_000021,می‌خوام کارت بانکی‌ام را مسدود کنم انجام بدم,card_block,banking
+fa_000022,نیاز دارم که وضعیت سفرم را چک کنم,ride_status,transportation
+fa_000023,چطور می‌تونم شکایت ثبت کنم؟,complaint,public_service
+fa_000024,چطور می‌تونم مشکل حسابم را حل کنم؟,account_help,digital_platform
+fa_000025,نیاز دارم که پول انتقال بدم,transfer_money,banking
+fa_000026,می‌خوام درخواست خدمت ثبت کنم انجام بدم,service_request,public_service
+fa_000027,وارد برنامه بشوم رو لازم دارم,app_login,digital_platform
+fa_000028,نیاز دارم که مشکل حسابم را حل کنم,account_help,digital_platform
+fa_000029,برای من تاکسی بگیرم کن,book_ride,transportation
+fa_000030,برای من موجودی حسابم را ببینم کن,check_balance,banking
+fa_000031,چطور می‌تونم کارت بانکی‌ام را مسدود کنم؟,card_block,banking
+fa_000032,قبض پرداخت کنم رو لازم دارم,pay_bill,banking
+fa_000033,پول انتقال بدم رو لازم دارم,transfer_money,banking
+fa_000034,برای من پول انتقال بدم کن,transfer_money,banking
+fa_000035,نیاز دارم که شکایت ثبت کنم,complaint,public_service
+fa_000036,چطور می‌تونم موجودی حسابم را ببینم؟,check_balance,banking
+fa_000037,شکایت ثبت کنم رو لازم دارم,complaint,public_service
+fa_000038,برای من درخواست خدمت ثبت کنم کن,service_request,public_service
+fa_000039,لطفاً وضعیت سفرم را چک کنم,ride_status,transportation
+fa_000040,می‌خوام شکایت ثبت کنم انجام بدم,complaint,public_service
+fa_000041,گفتگوی عمومی داشته باشم رو لازم دارم,general_chat,multi_domain
+fa_000042,درخواست خدمت ثبت کنم رو لازم دارم,service_request,public_service
+fa_000043,نیاز دارم که کارت بانکی‌ام را مسدود کنم,card_block,banking
+fa_000044,چطور می‌تونم پول انتقال بدم؟,transfer_money,banking
+fa_000045,موجودی حسابم را ببینم رو لازم دارم,check_balance,banking
+fa_000046,لطفاً قبض پرداخت کنم,pay_bill,banking
+fa_000047,برای من وضعیت سفرم را چک کنم کن,ride_status,transportation
+fa_000048,لطفاً گفتگوی عمومی داشته باشم,general_chat,multi_domain
+fa_000049,چطور می‌تونم وارد برنامه بشوم؟,app_login,digital_platform
+fa_000050,می‌خوام وارد برنامه بشوم انجام بدم,app_login,digital_platform
+fa_000051,لطفاً وارد برنامه بشوم,app_login,digital_platform
+fa_000052,برای من قبض پرداخت کنم کن,pay_bill,banking
+fa_000053,می‌خوام گفتگوی عمومی داشته باشم انجام بدم,general_chat,multi_domain
+fa_000054,نیاز دارم که قبض پرداخت کنم,pay_bill,banking
+fa_000055,می‌خوام تاکسی بگیرم انجام بدم,book_ride,transportation
+fa_000056,چطور می‌تونم گفتگوی عمومی داشته باشم؟,general_chat,multi_domain
+fa_000057,نیاز دارم که گفتگوی عمومی داشته باشم,general_chat,multi_domain
+fa_000058,لطفاً کارت بانکی‌ام را مسدود کنم,card_block,banking
+fa_000059,لطفاً پول انتقال بدم,transfer_money,banking
+fa_000060,می‌خوام موجودی حسابم را ببینم انجام بدم,check_balance,banking
+fa_000061,می‌خوام مشکل حسابم را حل کنم انجام بدم,account_help,digital_platform
+fa_000062,لطفاً تاکسی بگیرم,book_ride,transportation
+fa_000063,چطور می‌تونم قبض پرداخت کنم؟,pay_bill,banking
+fa_000064,برای من مشکل حسابم را حل کنم کن,account_help,digital_platform
+fa_000065,نیاز دارم که درخواست خدمت ثبت کنم,service_request,public_service
+fa_000066,می‌خوام وضعیت سفرم را چک کنم انجام بدم,ride_status,transportation
